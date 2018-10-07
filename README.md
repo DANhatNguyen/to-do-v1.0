@@ -5,6 +5,8 @@ A simple to do list bash script
 Clone this project:
 
 `git clone https://github.com/IvanNgn/to-do-v1.0
+
+
 cd to-do-v1.0`
 
 ## How to use
