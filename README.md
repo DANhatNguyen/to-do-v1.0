@@ -6,9 +6,6 @@ Clone this project:
 
 `git clone https://github.com/IvanNgn/to-do-v1.0`
 
-
-`cd to-do-v1.0`
-
 ## How to use
 ### Add a task
 The task and its deadline must be written between brackets " "
