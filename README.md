@@ -4,10 +4,10 @@ A simple to do list bash script
 ## Installation
 Clone this project:
 
-`git clone https://github.com/IvanNgn/to-do-v1.0
+`git clone https://github.com/IvanNgn/to-do-v1.0`
 
 
-cd to-do-v1.0`
+`cd to-do-v1.0`
 
 ## How to use
 ### Add a task
